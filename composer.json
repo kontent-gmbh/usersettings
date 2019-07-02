@@ -1,0 +1,15 @@
+{
+    "name": "User Settings",
+    "description": "Konfigurierbare Einstellungen für neu Benutzerkonten",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Michelle Mederake"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
