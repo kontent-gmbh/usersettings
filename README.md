@@ -18,4 +18,4 @@ can seperatly set to private, contacts or public.
 
 *You can find this settings in the security categorie of the administration settings.*
 
-We have create this app for our free product **[freecloud.eu]**(https://freecloud.eu).
+We have create this app for our free product [freecloud.eu](https://freecloud.eu).
