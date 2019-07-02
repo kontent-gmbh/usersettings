@@ -14,6 +14,6 @@ The visibility of
 * Twitter account, 
 can seperatly set to private, contacts or public.
 
-**These settings will be automatical aktivated at the first login of the user.
+**These settings will be automatical aktivated at the first login of the user.**
 
-*You can find this settings in the security categorie of the administration settings.
+*You can find this settings in the security categorie of the administration settings.*
